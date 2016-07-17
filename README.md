@@ -1,9 +1,8 @@
 # vlckitSwiftSample
 Sample MobileVLCKit project using swift 2.0
 
-The pod files are not included in this repo. After cloning you need to run "pod install" to get the cocoapod files. Then you should be able to open the workspace and build.
+Pod files sind nicht in der reop inkludiert. Nach dem Clonen muss "pod install" aufgerufen werden, um diese Files zu bekommen.
 
-
-
-####Known Issues
-* Video freezes when entering landscape in the simulator for plus models (I do not know about actual plus devices)
+####Bekannte Probleme
+* Nur auf iPhone 6s getestet
+* Lupus stream delay ca 0,7 Sekunden
