@@ -1,0 +1,13 @@
+PODS:
+  - MobileVLCKit (2.2.1)
+  - UIView+Copy (0.0.8)
+
+DEPENDENCIES:
+  - MobileVLCKit
+  - UIView+Copy
+
+SPEC CHECKSUMS:
+  MobileVLCKit: bb3359b2221316554129beb0c45827803a2de9be
+  UIView+Copy: 77bec0c78490884e6d7eed5552b3718b5023d305
+
+COCOAPODS: 0.39.0

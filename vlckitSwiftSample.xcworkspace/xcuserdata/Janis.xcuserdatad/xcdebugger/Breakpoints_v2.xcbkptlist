@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vlckitSwiftSample/ViewController.swift"
+            timestampString = "487791005.381618"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vlckitSwiftSample.ViewController.mediaPlayer.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.VLCMediaPlayer&gt;"
+                  moduleName = "vlckitSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Janis/Downloads/vlckitSwiftSample-master/vlckitSwiftSample/ViewController.swift"
+                  timestampString = "487030163.985848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vlckitSwiftSample.ViewController.mediaPlayer.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.VLCMediaPlayer&gt;"
+                  moduleName = "vlckitSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Janis/Downloads/vlckitSwiftSample-master/vlckitSwiftSample/ViewController.swift"
+                  timestampString = "487030163.986159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vlckitSwiftSample.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; vlckitSwiftSample.ViewController"
+                  moduleName = "vlckitSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Janis/Downloads/vlckitSwiftSample-master/vlckitSwiftSample/ViewController.swift"
+                  timestampString = "487030163.986282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vlckitSwiftSample.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;vlckitSwiftSample.ViewController&gt;"
+                  moduleName = "vlckitSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Janis/Downloads/vlckitSwiftSample-master/vlckitSwiftSample/ViewController.swift"
+                  timestampString = "487030163.986387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
